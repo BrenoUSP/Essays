@@ -10,29 +10,29 @@ Well, next I'll show some techniques that can help you with the process of learn
 
 So, to the techniques!
 
-### Pomodoro
+### Pomodoro [1]
 
 Pomodoro must be one of the most famous techniques used to do all kinds of tasks. With Pomodoro, you allocate some minutes (usually 25 min) to focus on doing a task. Soon after you can do a little break of let's say, five minutes. And next, you go back to the task.
 
 Some people like to do a kind of cycle. For example, you can do what I said 4 times and you can take a longer break!
 
-And maybe you have a task you like so much, you don't even need a timer like a Pomodoro. But when it comes to more "boring" tasks, it's good to apply Pomodoro. I'd recommend apps like "Forest" which gives you the timer, but the idea is to create trees each Pomodoro session. If you want to stop, you will stop the tree from growing :c
+And maybe you have a task you like so much, you don't even need a timer like a Pomodoro. But when it comes to more "boring" tasks, it's good to apply Pomodoro. I'd recommend apps like "Forest" [2] which gives you the timer, but the idea is to create trees each Pomodoro session. If you want to stop, you will stop the tree from growing :c
 
-### Chunking
+### Chunking [3]
 
 It can be really hard to memorize an entire chapter about a subject like, for example, math. But could you maybe, divide the chapter into many parts?
 
 That's the idea of chunking. Dividing the chapter you not only create differents parts visually, but your brain will memorize the parts as chunks, which you give a better ability to remember the entire chapter, recalling each chunk!
 
-### Deliberate learning
+### Deliberate learning [4]
 
 It's important to plan for an exam. Until there, you can study little by little, maybe 30 minutes every day? If you study this way for like 2 months, you'd have studied 30 hours total! Better than making a "sprint" the day before, right? Practicing every day really pays off.
 
-### Exercise
+### Exercise [5]
 
 "Mens sana in corpore sano" or "a healthy mind in a healthy body" as the Greek once said. And they were really right! It's practically a consensus in the medical/public health community the importance of exercising for good mental health. Try to exercise at least 1h30min or even more per week, as WHO recommends.
 
-### Sleep
+### Sleep [6]
 
 Sleep, like exercising, is an important way to maintain a good mental health. And for learning, it is crucial as we know the brain continues to fixate all kinds of subjects you studied in the day!
 
@@ -40,7 +40,7 @@ Sleep, like exercising, is an important way to maintain a good mental health. An
 
 Well, it's time to test yourself! You don't know if you really know something if don't do a kind of test. Try to resolve many kinds of exercises for the subject you are studying, including the hardest ones!
 
-## 2) The environment
+## 2) The environment [7]
 
 The environment you are studying something can be as important as the techniques you are using.
 
@@ -58,13 +58,13 @@ Turn off the wi-fi from your cellphone and keep it far away from you. This goes 
 
 ## 3) The routine
 
-A routine is very important to avoid problems of procrastination. Actually, our brains like routines so much and can learn fast about them if you give them the time. There are many ways you can create routines to do your studying and learn hard things!
+A routine is very important to avoid problems of procrastination. Actually, our brains like routines so much and can learn fast about them if you give them the time [8]. There are many ways you can create routines to do your studying and learn hard things!
 
 ### Write your tasks down
 
 Well, plan ahead! What are you trying to do today, and tomorrow, and the day after? It's really demanding for our brains to recalling the tasks every time, so give your brain a break! Write some tasks down!
 
-### Time blocking
+### Time blocking [9]
 
 Together with writing the tasks, you could do time blocking, which is allocating specific blocks of time to do these tasks! Research indicates that an effective way to do this planning is the night before the day you are planning. I'd recommend apps like Google Calendar (for time blocking) with Todoist (for creating tasks).
 
@@ -75,3 +75,15 @@ There are many and many techniques to create an effective way to learn anything.
 Test these techniques and see which of them are the best for you. It could be different for anyone!
 
 Don't forget to take a break! "If you don't take a break, the break takes itself." - Some random person on the Internet.
+
+## References
+
+[1] The Pomodoro Technique Explained: https://www.forbes.com/sites/bryancollinseurope/2020/03/03/the-pomodoro-technique/#5b3835ae3985
+[2] Forest App: https://www.forestapp.cc/
+[3] Chunking Strategy: https://thepeakperformancecenter.com/educational-learning/thinking/chunking/chunking-as-a-learning-strategy/
+[4] Deliberate practice: https://www.lifehack.org/851928/guide-to-deliberate-practice
+[5] Build Your Muscles, Build Your Brain: https://www.additudemag.com/exercise-learning-adhd-brain/
+[6] Study reveals how sleep boosts learning: https://www.medicalnewstoday.com/articles/sleep-visual-learning
+[7] Organizing your work space: https://www.huffpost.com/entry/7-tips-to-organize-your-work-space-and-stay-productive_b_9792172
+[8] Why We are Creatures of Routine: https://www.psychologytoday.com/us/blog/lets-connect/201108/why-we-are-creatures-routine
+[9] Time Blocking for Lifelong Learning: https://simple-pdh.com/time-blocking-for-lifelong-learning/
