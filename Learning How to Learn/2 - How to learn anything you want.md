@@ -79,11 +79,19 @@ Don't forget to take a break! "If you don't take a break, the break takes itself
 ## References
 
 [1] The Pomodoro Technique Explained: https://www.forbes.com/sites/bryancollinseurope/2020/03/03/the-pomodoro-technique/#5b3835ae3985
+
 [2] Forest App: https://www.forestapp.cc/
+
 [3] Chunking Strategy: https://thepeakperformancecenter.com/educational-learning/thinking/chunking/chunking-as-a-learning-strategy/
+
 [4] Deliberate practice: https://www.lifehack.org/851928/guide-to-deliberate-practice
+
 [5] Build Your Muscles, Build Your Brain: https://www.additudemag.com/exercise-learning-adhd-brain/
+
 [6] Study reveals how sleep boosts learning: https://www.medicalnewstoday.com/articles/sleep-visual-learning
+
 [7] Organizing your work space: https://www.huffpost.com/entry/7-tips-to-organize-your-work-space-and-stay-productive_b_9792172
+
 [8] Why We are Creatures of Routine: https://www.psychologytoday.com/us/blog/lets-connect/201108/why-we-are-creatures-routine
+
 [9] Time Blocking for Lifelong Learning: https://simple-pdh.com/time-blocking-for-lifelong-learning/
